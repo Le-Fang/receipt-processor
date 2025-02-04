@@ -1,6 +1,6 @@
 # receipt-processor
 
-This repository contains a webservice that fulfils the documented API listed in https://github.com/fetch-rewards/receipt-processor-challenge.git
+This repository contains a webservice that fulfils the documented API listed in https://github.com/fetch-rewards/receipt-processor-challenge
 
 To run this application, navigate to the root directory of this project, and run the following command to build the Docker image:
 
